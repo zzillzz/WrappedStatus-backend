@@ -1,0 +1,6 @@
+@WrappedStatus_backend_HostAddress = http://localhost:5177
+
+GET {{WrappedStatus_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
